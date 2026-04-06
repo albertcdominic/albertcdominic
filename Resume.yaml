@@ -6,6 +6,8 @@ cv:
   social_networks:
     - network: LinkedIn
       username: albertcdominic
+    - network: GitHub
+      username: albertcdominic
   sections:
     summary:
       - Software Developer with expertise in full-stack development and cybersecurity.
