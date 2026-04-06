@@ -1,0 +1,77 @@
+cv:
+  name: Albert C Dominic
+  location: Kattappana, Idukki
+  email: albertcdominic233893@gmail.com
+  phone: "+91 8075161632"
+  social_networks:
+    - network: LinkedIn
+      username: albertcdominic
+  sections:
+    summary:
+      - Software Developer with expertise in full-stack development and cybersecurity.
+        Skilled in C, C++, Java, PHP, and Python. Experienced in building web applications
+        and implementing security solutions. Seeking to leverage technical skills
+        in a software development role.
+    education:
+      - institution: University College of Engineering
+        area: Cyber Security
+        degree: B.Tech
+        start_date: '2022-09'
+        end_date: '2026-05'
+        highlights:
+          - Bachelor of Technology in Cyber Security with CGPA of 7.1
+          - Coursework includes Network Security, Cryptography, and Web Development
+      - institution: St. Xaviers HSS Chemmannar
+        area: Science
+        degree: Higher Secondary
+        start_date: '2020-06'
+        end_date: '2022-03'
+        highlights:
+          - Completed Higher Secondary Education with 90% score in Science stream
+    experience:
+      - company: Kerala Cyber Cell
+        position: Intern
+        start_date: '2024-01'
+        end_date: present
+        location: Idukki, Kerala
+        highlights:
+          - Conducted digital forensics analysis to support cybercrime investigations
+          - Analyzed cyber threats and monitored security incidents using industry-standard
+            protocols
+          - Collaborated with law enforcement officials to document case findings
+            and prepare technical reports
+          - Gained practical knowledge of incident response and threat detection
+            methodologies
+    projects:
+      - name: Teacher Diary
+        highlights:
+          - Developed a PHP-based web application for managing student attendance
+            and academic records
+          - Implemented attendance tracking system enabling teachers to monitor student
+            participation efficiently
+          - Built student performance analysis module to generate data-driven insights
+            for educators
+          - Designed user-friendly interface with intuitive navigation for easy record
+            management
+      - name: DDoS Attack Detection System
+        highlights:
+          - Built a hybrid deep learning model for real-time DDoS attack detection
+            and mitigation
+          - Integrated multiple machine learning algorithms to achieve high detection
+            accuracy with reduced false positives
+          - Developed traffic analysis module to identify malicious patterns and enhance
+            network security
+          - Implemented solution to protect network infrastructure from distributed
+            denial-of-service attacks
+    skills:
+      - label: Programming Languages
+        details: C, C++, Java, PHP, Python, Shell Scripting
+      - label: Web Development
+        details: HTML, CSS, JavaScript, PHP
+      - label: Technical Skills
+        details: Data Structures, Algorithms, Object-Oriented Programming, Database
+          Management
+      - label: Soft Skills
+        details: Communication, Problem Solving, Adaptability, Teamwork, Consistency
+design:
+  theme: engineeringresumes
